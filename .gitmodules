@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DSAIDE"]
+	path = DSAIDE
+	url = https://github.com/ahgroup/dsaide
+	shallow = true
+	registered = true
+[submodule "DSAIRM"]
+	path = DSAIRM
+	url = https://github.com/ahgroup/dsairm
+	shallow = true
+	registered = true
